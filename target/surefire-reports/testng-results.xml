@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3465" started-at="2019-06-13T12:14:21Z" finished-at="2019-06-13T12:14:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3465" started-at="2019-06-13T12:14:21Z" finished-at="2019-06-13T12:14:24Z">
+      <class name="yu.VinMouseOp">
+        <test-method status="PASS" signature="vinnn()[pri:0, instance:yu.VinMouseOp@185d8b6]" name="vinnn" duration-ms="3431" started-at="2019-06-13T12:14:21Z" finished-at="2019-06-13T12:14:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vinnn -->
+      </class> <!-- yu.VinMouseOp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
